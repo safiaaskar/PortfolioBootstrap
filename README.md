@@ -1,3 +1,3 @@
-# PortfolioBootstrap 🧷 Live demo :
-https://safiaaskar.github.io/PortfolioBootstrap/
+# PortfolioBootstrap 
+🧷 Live demo: https://safiaaskar.github.io/PortfolioBootstrap/
 
